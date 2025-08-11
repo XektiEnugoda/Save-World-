@@ -6,4 +6,6 @@ Class MainMenu()
   public:
     MainMenu();
     Title();
+    PlayButton();
+    StartGame();
 };
