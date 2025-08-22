@@ -1,11 +1,21 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 
-Class MainMenu()
+class mMenu()
+{
+  public:
+    mMenu();
+    Title();
+    Play();
+    Options();
+};
+
+
+/*enum MainMenu
 {
   public:
     MainMenu();
     Title();
     PlayButton();
     StartGame();
-};
+};*/
