@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 
-class mMenu()
+/*class mMenu()
 {
   public:
     mMenu();
@@ -11,7 +11,7 @@ class mMenu()
 };
 
 
-/*enum MainMenu
+enum MainMenu
 {
   public:
     MainMenu();
